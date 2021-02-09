@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Új mappa\index\index\bin\Debug\index.exe.config
+C:\Users\user\Desktop\Új mappa\index\index\bin\Debug\index.exe
+C:\Users\user\Desktop\Új mappa\index\index\bin\Debug\index.pdb
+C:\Users\user\Desktop\Új mappa\index\index\obj\Debug\index.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Új mappa\index\index\obj\Debug\index.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Új mappa\index\index\obj\Debug\index.exe
+C:\Users\user\Desktop\Új mappa\index\index\obj\Debug\index.pdb
